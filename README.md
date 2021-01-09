@@ -1,7 +1,5 @@
 <h2>
-  <a href="https://nerd00f.github.io">
-    <samp>👨‍💻 Alan Christian</samp>
-  </a>
+  <samp>👨‍💻 Alan Christian</samp>
 </h2>
 
 - Desenvolvedor Fullstack
