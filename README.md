@@ -1,5 +1,8 @@
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alanchristian0)
-![Skills](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Skills](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Skills](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Skills](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+<h2>
+  <samp>👨‍💻 Alan Christian</samp>
+</h2>
+
+- Desenvolvedor Fullstack
+
+[![Github stats](https://github-readme-stats.vercel.app/api?username=nerd00f&include_all_commits=true&hide_border=true&hide_title=true&show_icons=true&locale=pt-br)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nerd00f&layout=compact&hide_border=true&locale=pt-br)](https://profile.codersrank.io/user/nerd00f)
